@@ -21,18 +21,13 @@
  6) 使用言語 : Java ,  JSP , Servlet & MVC , JSTL , HTML5, CSS , Bootstrap, JavaScript, jQuery, Ajax <br>
  
  
- <h2>4. UseCaseと核心技術</h2>
-  1) UseCase<br>
+ <h2>4. UseCase</h2>
 <img src = "https://user-images.githubusercontent.com/50767972/85623531-82e21300-b6a3-11ea-946a-0e09b3f7a65b.PNG" width = "90%"></img>    
-  
-  2) 核心技術<br>
-     JFrame UIを実現<br>
-     データベース設計<br>
-     JDBCを利用したDatabase連動<br>
 
-<h2>5. データベースの構造</h2>
-<img src = "" width = "90%"></img>
-<img src = "" width = "90%"></img>
+
+ <h2>5. データベースの構造</h2>
+<img src = "https://user-images.githubusercontent.com/50767972/85628024-6a292b80-b6aa-11ea-9070-6043554e519f.PNG" width = "90%"></img>
+<img src = "https://user-images.githubusercontent.com/50767972/85628480-2be03c00-b6ab-11ea-9e65-60d34e69088e.PNG" width = "90%"></img>
 
 
 <h2>6. スクリーンショット</h2>
