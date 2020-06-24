@@ -6,23 +6,25 @@
 <h2>2. 開発目的とプロジェクト概要</h2>
 
  1) 開発目的 : <br>
- 無限商事という仮想の会社が使う社内イントラネットを実現しました。<br>
- 社員DB情報に基づいて人事部に属した職員は、会社にお知らせを管理したり、<br>
- 管理者モードを利用できるようにアクセス権限を与えました。<br>
- 2) 開発人員 : 4人<br>
- 3) 開発期間 : 2019.11.27 ~ 2019.12.06 (8日間) <br>
+ SNS APPをベンチマーキングし、日常を共有する事ができるSNSサイトを作りました。<br>
+ また、会員なら趣味や関心事が同じである他の人々と一緒に集まりを作ることができるよう小集まり掲示板も構成しています。<br>
+ 2) 開発人員 : 3人<br>
+ 3) 開発期間 : 2020.02.12 ~ 2020.03.15 (1ヶ月) <br>
 
 
 <h2>3. 開発環境</h2>
- 1) 言語 : JAVA, JAVA Swing, SQL<br>
- 2) OS : Windows 10 Home<br>
- 3) DB : Oracle Database 11g Express Edition<br>
- 4) Tool : Eclipse, SQLDevelopter, Netbeans<br>
+ 1) OS : Windows 10 Home <br>
+ 2) WAS : Tomcat 8.5 <br>
+ 3) Java :　jdk1.8.0_231 <br>
+ 4) DB : Oracle Database 11g Express Edition <br>
+ 5) Tool : Eclipse, SqlDeveloper, Visual Studio Code <br>
+ 6) 使用言語 : Java ,  JSP , Servlet & MVC , JSTL , HTML5, CSS , Bootstrap, JavaScript, jQuery, Ajax <br>
  
  
- <h2>4. UIストーリーボードと核心技術</h2>
-  1) UIストーリーボード<br>
-<img src = "" width = "90%"></img>    
+ <h2>4. UseCaseと核心技術</h2>
+  1) UseCase<br>
+<img src = "https://user-images.githubusercontent.com/50767972/85623531-82e21300-b6a3-11ea-946a-0e09b3f7a65b.PNG" width = "90%"></img>    
+  
   2) 核心技術<br>
      JFrame UIを実現<br>
      データベース設計<br>
