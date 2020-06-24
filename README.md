@@ -61,28 +61,28 @@ IDまたはパスワードを違えば、警告ポップアップウィンドウ
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629121-39e28c80-b6ac-11ea-8020-f9248f0eff4f.PNG" width = "90%"></img>
 <br>
-<h4>6) 文をアップロードする画面</h4>
+<h5>[4] 文をアップロードする画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629165-4bc42f80-b6ac-11ea-80a3-ac980e3c8c77.PNG" width = "90%"></img>
 <br>
 
-<h4>4) 소모임 メイン</h4>
-<h5>[1] 소모임 メイン画面</h5>
+<h4>4) 小集まりメイン</h4>
+<h5>[1] 小集まりメイン画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629200-61395980-b6ac-11ea-9a88-6c4d0ceb50b5.PNG" width = "90%"></img>
 <br>
-<h5>[2] 소모임 등록の画面</h5>
+<h5>[2] 小集まりの登錄画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629225-6d251b80-b6ac-11ea-8f25-2a12d1ba9afa.PNG" width = "90%"></img>
 <br>
-<h5>[3] 소모임 상세の画面</h5>
+<h5>[3] 小集まりの詳細画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629276-84fc9f80-b6ac-11ea-8478-e8907272cbb1.PNG" width = "90%"></img>
 <br>
-<h5>[3-1] 소모임 상세の画面(작성자인 경우)</h5>
+<h5>[3-1] 小集まりの詳細画面(文の作成者である場合)</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629309-96de4280-b6ac-11ea-9905-a2dd1615e27e.PNG" width = "90%"></img>
 <br>
-<h5>[4] 소모임 수정の画面</h5>
+<h5>[4] 小集まりの修正画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629344-a5c4f500-b6ac-11ea-94ef-5d980bd8e25c.PNG" width = "90%"></img>
