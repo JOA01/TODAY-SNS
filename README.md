@@ -38,19 +38,26 @@ IDまたはパスワードを違えば、警告ポップアップウィンドウ
 会員登録ボタンを押すと、会員登録画面に切り替わります。<br>
 <img src = "https://user-images.githubusercontent.com/50767972/85628948-f556f100-b6ab-11ea-9809-efb67265b0f3.PNG" width = "90%"></img>
 <br>
+
 <h4>2) 会員登録画面</h4>
-- <br>
+- 会員登録のための画面でサイト利用時に必要なニックネーム、ID、パスワード、プロフィール写真などを登録できます。
+ニックネームとIDの場合、重複チェックボタンを押して希望のニックネーム(またはID)を作成すると重複を確認します。
+プロフィール写真を登録する場合、拡張子がイメージファイル(JPG、PNG、JPEG)でなければ登録できないようにポップアップウィンドウが表示されます。
+パスワードとパスワードの確認の値が異なる場合は、ポップアップ ウィンドウが表示されます。
+郵便番号のチェックをクリックすると、次の郵便番号APIを活用して住所を入力できるウィンドウが下に表示されます。<br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629023-13245600-b6ac-11ea-824d-c9c0fe017c6e.PNG" width = "90%"></img>
 <br>
-<h4>3) メイン画面</h4>
+
+<h4>3) メイン</h4>
+<h5>[1] メイン画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85628963-fe47c280-b6ab-11ea-9ccc-744c0bbd017f.PNG" width = "90%"></img>
 <br>
-<h4>4) 私の掲示板画面</h4>
+<h5>[2] 私の掲示板画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629068-26372600-b6ac-11ea-9eb2-2fa6df7349fc.PNG" width = "90%"></img>
 <br>
-<h4>5) 私が書いた文章の詳細画面</h4>
+<h5>[3] 私が書いた文章の詳細画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629121-39e28c80-b6ac-11ea-8020-f9248f0eff4f.PNG" width = "90%"></img>
 <br>
@@ -58,22 +65,24 @@ IDまたはパスワードを違えば、警告ポップアップウィンドウ
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629165-4bc42f80-b6ac-11ea-80a3-ac980e3c8c77.PNG" width = "90%"></img>
 <br>
-<h4>7) 소모임 메인の画面</h4>
+
+<h4>4) 소모임 メイン</h4>
+<h5>[1] 소모임 メイン画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629200-61395980-b6ac-11ea-9a88-6c4d0ceb50b5.PNG" width = "90%"></img>
 <br>
-<h4>8) 소모임 등록の画面</h4>
+<h5>[2] 소모임 등록の画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629225-6d251b80-b6ac-11ea-8f25-2a12d1ba9afa.PNG" width = "90%"></img>
 <br>
-<h4>9) 소모임 상세の画面</h4>
+<h5>[3] 소모임 상세の画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629276-84fc9f80-b6ac-11ea-8478-e8907272cbb1.PNG" width = "90%"></img>
 <br>
-<h4>10) 소모임 상세の画面(작성자인 경우)</h4>
+<h5>[3-1] 소모임 상세の画面(작성자인 경우)</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629309-96de4280-b6ac-11ea-9905-a2dd1615e27e.PNG" width = "90%"></img>
 <br>
-<h4>11) 소모임 수정の画面</h4>
+<h5>[4] 소모임 수정の画面</h5>
 - <br>
 <img src = "https://user-images.githubusercontent.com/50767972/85629344-a5c4f500-b6ac-11ea-94ef-5d980bd8e25c.PNG" width = "90%"></img>
